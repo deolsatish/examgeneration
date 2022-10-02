@@ -1,0 +1,12 @@
+Oct. 02, 2022 2:24:10 PM edu.deakin.sit218.examgeneration.controller.HomeController showHome
+INFO: User lecturer has logged in.
+Oct. 02, 2022 2:24:19 PM edu.deakin.sit218.examgeneration.controller.QuestionAnswerController questionanswerview
+INFO: User lecturer has requested for insertion of question: question11 , answer: answer11 , area of knwoledge: area2 , lecturername: danny8322 into exampaper database
+Oct. 02, 2022 2:24:25 PM edu.deakin.sit218.examgeneration.controller.HomeController showHome
+INFO: User lecturer has logged in.
+Oct. 02, 2022 2:33:08 PM edu.deakin.sit218.examgeneration.controller.HomeController showHome
+INFO: User student has logged in.
+Oct. 02, 2022 2:33:19 PM edu.deakin.sit218.examgeneration.controller.ExamGenController examgen
+INFO: User student has requested for five questions from area2 (Area of Knowledge)
+Oct. 02, 2022 2:33:22 PM edu.deakin.sit218.examgeneration.controller.HomeController showHome
+INFO: User student has logged in.
